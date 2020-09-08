@@ -1,0 +1,17 @@
+header {
+  width: 100%;
+  padding: 20px;
+}
+
+section {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+section ul {
+  display: flex;
+  margin: 20px;
+  border: 2px solid #333;
+  flex-direction: column;
+}
